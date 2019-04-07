@@ -1,0 +1,22 @@
+{
+  "name": "kekstlt/file-image-loader",
+  "description": "Just little class for file and image loading",
+  "versions": "1.0",
+  "type": "project",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "MyFileLoader\\": "/src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Roman Petrov",
+      "email": "keks.tlt@gmail.com"
+    }
+  ]
+}
