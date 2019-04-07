@@ -2,7 +2,7 @@
   "name": "kekstlt/file-image-loader",
   "description": "Just little class for file and image loading",
   "versions": "1.0",
-  "type": "project",
+  "type": "library",
   "license": "MIT",
   "minimum-stability": "dev",
   "require": {
